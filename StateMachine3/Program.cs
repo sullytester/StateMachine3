@@ -2,7 +2,7 @@
 
 namespace StateMachine3
 {
-    class Machine
+    public class Machine
     {
 
         public Machine()
